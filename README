@@ -1,0 +1,11 @@
+INTRODUCTION
+
+// Contain some context about what your project is, specify what it does, what it is an expert in, etc
+
+
+SETUP
+
+// git clone the repo
+// set up the virtual environment
+// download any modules (MAYBE USE A REQUIREMENTS.TXT)
+// run it using python3 filename.py
